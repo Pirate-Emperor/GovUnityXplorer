@@ -1,3 +1,4 @@
+![GovUnityXplorer](images/head_2.jpg)
 # GovUnityXplorer: Trust, Privacy, and Empowerment
 
 ## Project Overview:
