@@ -218,6 +218,9 @@ Ready to make a positive impact on communities worldwide? Head over to our [GitH
 Together, let's build a future where technology empowers communities and creates a safer, more connected world! Join GovUnityXplorer today! 🌍✨
 
 ## Reference:
+- ML Conflict: https://www.sciencedirect.com/science/article/abs/pii/016792369390034Z
+- Decentralized Identity: https://www.dock.io/post/decentralized-identity
+- Governance Singularity: https://blog.oceanprotocol.com/making-ocean-protocols-smart-contracts-and-it-s-governance-unstoppable-45cf99dc1b65
 - Conflict Resolution Strategies In Artificial Intelligence. https://conflictresolved.com/conflict-resolution-strategies-in-artificial-intelligence/.
 - Artificial Intelligence Techniques for Conflict Resolution. https://link.springer.com/article/10.1007/s10726-021-09738-x.
 - Machine Learning and Conflict Prediction: A Use Case. https://stabilityjournal.org/articles/10.5334/sta.cr.
