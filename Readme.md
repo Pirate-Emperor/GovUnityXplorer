@@ -218,31 +218,31 @@ Ready to make a positive impact on communities worldwide? Head over to our [GitH
 Together, let's build a future where technology empowers communities and creates a safer, more connected world! Join GovUnityXplorer today! 🌍✨
 
 ## Reference:
-(1) Conflict Resolution Strategies In Artificial Intelligence. https://conflictresolved.com/conflict-resolution-strategies-in-artificial-intelligence/.
-(2) Artificial Intelligence Techniques for Conflict Resolution. https://link.springer.com/article/10.1007/s10726-021-09738-x.
-(3) Machine Learning and Conflict Prediction: A Use Case. https://stabilityjournal.org/articles/10.5334/sta.cr.
-(4) Using Artificial Intelligence to provide Intelligent Dispute Resolution .... https://link.springer.com/article/10.1007/s10726-021-09734-1.
-(5) Machine Learning-based SON function conflict resolution | IEEE .... https://ieeexplore.ieee.org/document/8969675/.
+- Conflict Resolution Strategies In Artificial Intelligence. https://conflictresolved.com/conflict-resolution-strategies-in-artificial-intelligence/.
+- Artificial Intelligence Techniques for Conflict Resolution. https://link.springer.com/article/10.1007/s10726-021-09738-x.
+- Machine Learning and Conflict Prediction: A Use Case. https://stabilityjournal.org/articles/10.5334/sta.cr.
+- Using Artificial Intelligence to provide Intelligent Dispute Resolution .... https://link.springer.com/article/10.1007/s10726-021-09734-1.
+- Machine Learning-based SON function conflict resolution | IEEE .... https://ieeexplore.ieee.org/document/8969675/.
 
-(1) Decentralized identity | ethereum.org. https://ethereum.org/decentralized-identity.
-(2) Machine Learning in Digital Identity Verification - emudhra.com. https://emudhra.com/blog/the-role-of-machine-learning-in-digital-identity-verification.
-(3) Responsible use of machine learning to verify identities at scale. https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/.
-(4) How Machine Learning is Reinventing Identity Verification. https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification.
-(5) How Artificial Intelligence is taking ID verification to the next level?. https://shuftipro.com/blog/how-artificial-intelligence-is-taking-id-verification-to-the-next-level/.
-(6) Identity Verification | Machine Learning | Amazon Web Services. https://aws.amazon.com/machine-learning/ml-use-cases/identity-verification/.
-(7) What Is Decentralized Identity? A Comprehensive Guide. https://www.identity.com/decentralized-identity/.
-(8) Blockchain for Digital Identity Verification | Reintech media. https://reintech.io/blog/blockchain-digital-identity-verification.
+- Decentralized identity | ethereum.org. https://ethereum.org/decentralized-identity.
+- Machine Learning in Digital Identity Verification - emudhra.com. https://emudhra.com/blog/the-role-of-machine-learning-in-digital-identity-verification.
+- Responsible use of machine learning to verify identities at scale. https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/.
+- How Machine Learning is Reinventing Identity Verification. https://www.socure.com/blog/how-machine-learning-is-reinventing-identity-verification.
+- How Artificial Intelligence is taking ID verification to the next level?. https://shuftipro.com/blog/how-artificial-intelligence-is-taking-id-verification-to-the-next-level/.
+- Identity Verification | Machine Learning | Amazon Web Services. https://aws.amazon.com/machine-learning/ml-use-cases/identity-verification/.
+- What Is Decentralized Identity? A Comprehensive Guide. https://www.identity.com/decentralized-identity/.
+- Blockchain for Digital Identity Verification | Reintech media. https://reintech.io/blog/blockchain-digital-identity-verification.
 
-(1) What is Web3 technology (and why is it important)? | McKinsey. https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-web3.
-(2) Web3 - Wikipedia. https://en.wikipedia.org/wiki/Web3.
-(3) Top 15 sentiment analysis tools to consider in 2024. https://sproutsocial.com/insights/sentiment-analysis-tools/.
-(4) Top 10 Web3 Applications You Must Know - 101 Blockchains. https://101blockchains.com/top-web3-applications/.
-(5) What Is Web3? - Harvard Business Review. https://hbr.org/2022/05/what-is-web3.
-(6) Ultimate Guide: What is Web3 Technology? - Moralis. https://moralis.io/ultimate-guide-what-is-web3-technology/.
-(7) The Impact of AI Sentiment Analysis: Benefits and Use Cases. https://appinventiv.com/blog/ai-sentiment-analysis-in-business/.
-(8) The 14 Best AI Sentiment Analysis Tools [2024] - Brand24 Blog. https://brand24.com/blog/best-sentiment-analysis-tools/.
-(9) The Power of Sentiment Analysis in AI | by Humans.ai - Medium. https://medium.com/humansdotai/the-power-of-sentiment-analysis-in-ai-43a7c3cfe1ba.
-(10) Top 9 Best AI-Driven Sentiment Analysis Tools in 2024 | Infraon. https://infraon.io/blog/ai-driven-sentiment-analysis-tools/.
-(11) Designing the Future of Platform Governance with Web3 - Best. https://blog.trustkeys.network/the-future-of-platform-governance-with-web3/.
-(12) Decentralized Governance in Web3: Beyond DAOs - Medium. https://blog.blockmagnates.com/decentralized-governance-in-web3-beyond-daos-b68b9e859ec1.
-(13) What is Web3 and how could it change the internet? - The World Economic .... https://www.weforum.org/agenda/2023/03/what-is-web3-and-how-could-it-change-the-internet/.
+- What is Web3 technology (and why is it important)? | McKinsey. https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-web3.
+- Web3 - Wikipedia. https://en.wikipedia.org/wiki/Web3.
+- Top 15 sentiment analysis tools to consider in 2024. https://sproutsocial.com/insights/sentiment-analysis-tools/.
+- Top 10 Web3 Applications You Must Know - 101 Blockchains. https://101blockchains.com/top-web3-applications/.
+- What Is Web3? - Harvard Business Review. https://hbr.org/2022/05/what-is-web3.
+- Ultimate Guide: What is Web3 Technology? - Moralis. https://moralis.io/ultimate-guide-what-is-web3-technology/.
+- The Impact of AI Sentiment Analysis: Benefits and Use Cases. https://appinventiv.com/blog/ai-sentiment-analysis-in-business/.
+- The 14 Best AI Sentiment Analysis Tools [2024] - Brand24 Blog. https://brand24.com/blog/best-sentiment-analysis-tools/.
+- The Power of Sentiment Analysis in AI | by Humans.ai - Medium. https://medium.com/humansdotai/the-power-of-sentiment-analysis-in-ai-43a7c3cfe1ba.
+- Top 9 Best AI-Driven Sentiment Analysis Tools in 2024 | Infraon. https://infraon.io/blog/ai-driven-sentiment-analysis-tools/.
+- Designing the Future of Platform Governance with Web3 - Best. https://blog.trustkeys.network/the-future-of-platform-governance-with-web3/.
+- Decentralized Governance in Web3: Beyond DAOs - Medium. https://blog.blockmagnates.com/decentralized-governance-in-web3-beyond-daos-b68b9e859ec1.
+- What is Web3 and how could it change the internet? - The World Economic .... https://www.weforum.org/agenda/2023/03/what-is-web3-and-how-could-it-change-the-internet/.
