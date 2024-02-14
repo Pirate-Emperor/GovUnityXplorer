@@ -1,6 +1,18 @@
 ![GovUnityXplorer](images/head_2.jpg)
 # GovUnityXplorer: Trust, Privacy, and Empowerment
 
+## Social Links:
+
+- GitHub: [Pirate-Emperor](https://github.com/Pirate-Emperor) (Community)
+- Reddit: [Ideas + Annoucement + Community](https://www.reddit.com/)
+- Twitter: [@PirateKingRahul](https://twitter.com/PirateKingRahul) (Announcement)
+- Discord: [Community](https://discord.com/channels/1200760563043663912/1200760563509235814)
+- Telegram: [Web3](#) (Ideas + Community)
+- LinkedIn: [PirateKingRahul](https://www.linkedin.com/in/piratekingrahul) (Resume + Announcement)
+- Skype: [live:.cid.c6b33dcaa9477996](#) (Community)
+- Medium: [Your Medium Profile](#)
+
+
 ## Project Overview:
 
 Welcome to GovUnityXplorer – an open-source initiative dedicated to reshaping community safety and governance through advanced technologies. Integrating machine learning, AI, and decentralized systems to create a unified and empowered community. 
