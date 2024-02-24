@@ -8,12 +8,12 @@ Explore the universe of GovUnityXplorer, where ideas thrive and communities unit
 ## Social Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Community-brightgreen?logo=github)](https://github.com/Pirate-Emperor)
-[![Reddit](https://img.shields.io/badge/Reddit-Ideas%20%2B%20Announcement%20%2B%20Community-orange?logo=reddit)](https://www.reddit.com/r/GovUnityXplorer/)
+[![Reddit](https://img.shields.io/badge/Reddit-Announcement%20%2B%20Community-orange?logo=reddit)](https://www.reddit.com/r/GovUnityXplorer/)
 [![Twitter](https://img.shields.io/badge/Twitter-Announcement-blue?logo=twitter)](https://twitter.com/PirateKingRahul)
 [![Discord](https://img.shields.io/badge/Discord-Community-blueviolet?logo=discord)](https://discord.com/channels/1200760563043663912/1200760563509235814)
-[![Telegram](https://img.shields.io/badge/Telegram-Ideas%20%2B%20Community-informational?logo=telegram)](https://t.me/+TUZqu7663DtlYWE1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Resume%20%2B%20Announcement-9cf?logo=linkedin)](https://www.linkedin.com/in/piratekingrahul)
-[![Skype](https://img.shields.io/badge/Skype-Community-important?logo=skype)](https://join.skype.com/invite/yfjOJG3wv9Ki)
+[![Telegram](https://img.shields.io/badge/Telegram-Community-informational?logo=telegram)](https://t.me/+TUZqu7663DtlYWE1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Announcement-9cf?logo=linkedin)](https://www.linkedin.com/in/piratekingrahul)
+[![Skype](https://img.shields.io/badge/Skype-Contact-important?logo=skype)](https://join.skype.com/invite/yfjOJG3wv9Ki)
 [![Medium](https://img.shields.io/badge/Medium-PirateKingRahul-black?logo=medium)](https://medium.com/@piratekingrahul)
 
 
