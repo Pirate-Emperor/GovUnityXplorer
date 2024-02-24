@@ -16,9 +16,6 @@ Explore the universe of GovUnityXplorer, where ideas thrive and communities unit
 [![Skype](https://img.shields.io/badge/Skype-Contact-important?logo=skype)](https://join.skype.com/invite/yfjOJG3wv9Ki)
 [![Medium](https://img.shields.io/badge/Medium-Announcement%20%2B%20Post-brightgreen?logo=medium)](https://medium.com/@piratekingrahul)
 
-
-# GovUnityXplorer
-
 ## Overview:
 GovUnityXplorer aims to develop a robust digital governance platform leveraging Web3 technologies. This platform facilitates decentralized communication channels between citizens and government entities, fostering transparent policy discussions and public decision-making processes. AI-driven sentiment analysis assists policymakers in understanding community needs, while machine learning models enhance conflict resolution and identity verification capabilities, all accessible through intuitive front-end interfaces and Web3 features like no-cost voting and create-to-earn models.
 
