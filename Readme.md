@@ -41,16 +41,16 @@ The challenge we are addressing is the need for a more inclusive, transparent, a
 ## Task List
 
 ### Frontend Development:
-- [ ] Develop user interfaces for citizens and policymakers.
-  - [ ] Design UI wireframes and mockups.
-  - [ ] Implement frontend components using React.js.
-  - [ ] Ensure responsiveness and cross-browser compatibility.
+- ❌ Develop user interfaces for citizens and policymakers.
+  - ❌ Design UI wireframes and mockups.
+  - ❌ Implement frontend components using React.js.
+  - ❌ Ensure responsiveness and cross-browser compatibility.
 
 ### Web3 Integration:
-- [ ] Integrate blockchain for decentralized communication and transactions.
-  - [ ] Research Ethereum integration for smart contracts.
-  - [ ] Implement Ethereum blockchain integration.
-  - [ ] Test and ensure seamless interaction with the platform.
+- ❌ Integrate blockchain for decentralized communication and transactions.
+  - ❌ Research Ethereum integration for smart contracts.
+  - ❌ Implement Ethereum blockchain integration.
+  - ❌ Test and ensure seamless interaction with the platform.
 - ❌ WEB3 (DID, Social Media, no cost Voting, create-to-earn model)
   - ❌ Integrate DID (Decentralized Identifiers) for user authentication.
   - ❌ Implement social media integration for user engagement.
@@ -58,16 +58,16 @@ The challenge we are addressing is the need for a more inclusive, transparent, a
   - ❌ Design create-to-earn model for incentivizing participation.
 
 ### Mobile Application Development:
-- [ ] Develop a mobile application using Flutter for Android devices.
-  - [ ] Design mobile UI wireframes and mockups.
-  - [ ] Implement UI components and navigation.
-  - [ ] Test and ensure compatibility across various Android devices.
+- ❌ Develop a mobile application using Flutter for Android devices.
+  - ❌ Design mobile UI wireframes and mockups.
+  - ❌ Implement UI components and navigation.
+  - ❌ Test and ensure compatibility across various Android devices.
 
 ### AI Module Implementation:
-- [ ] Develop AI module for sentiment analysis and decision support.
-  - [ ] Research TensorFlow for machine learning capabilities.
-  - [ ] Implement sentiment analysis algorithms.
-  - [ ] Integrate AI module with the platform's backend.
+- ❌ Develop AI module for sentiment analysis and decision support.
+  - ❌ Research TensorFlow for machine learning capabilities.
+  - ❌ Implement sentiment analysis algorithms.
+  - ❌ Integrate AI module with the platform's backend.
 - ❌ Develop ML models for conflict resolution.
   - ❌ Collect and preprocess conflict data.
   - ❌ Train ML model.
@@ -78,72 +78,72 @@ The challenge we are addressing is the need for a more inclusive, transparent, a
   - ❌ Script integration with Dapp.
 
 ### Platform Features Development:
-- [ ] Implement Policy Threads for policy discussions, voting, and feedback.
-  - [ ] Develop backend logic for policy threads.
-  - [ ] Implement frontend components for policy threads.
-- [ ] Implement Issue Threads for citizen complaints and concerns.
-  - [ ] Develop backend logic for issue threads.
-  - [ ] Implement frontend components for issue threads.
-- [ ] Implement feedback mechanism for citizen input on policies and services.
-  - [ ] Develop backend logic for feedback submissions.
-  - [ ] Implement frontend components for feedback mechanism.
+- ❌ Implement Policy Threads for policy discussions, voting, and feedback.
+  - ❌ Develop backend logic for policy threads.
+  - ❌ Implement frontend components for policy threads.
+- ❌ Implement Issue Threads for citizen complaints and concerns.
+  - ❌ Develop backend logic for issue threads.
+  - ❌ Implement frontend components for issue threads.
+- ❌ Implement feedback mechanism for citizen input on policies and services.
+  - ❌ Develop backend logic for feedback submissions.
+  - ❌ Implement frontend components for feedback mechanism.
 
 ### Blockchain Layer Development:
 - ❌ Deploy a Dapp on Testnet or local blockchain.
   - ✅ Set up accounts on Testnet.
   - ❌ Configure Truffle for local blockchain testing.
   - ❌ Ensure smart contracts deploy successfully.
-- [ ] Implement immutable ledger for transparent and secure data storage.
-  - [ ] Research Hyperledger Fabric for blockchain architecture.
-  - [ ] Develop smart contracts using Solidity for Ethereum.
-  - [ ] Test and deploy smart contracts on the blockchain.
+- ❌ Implement immutable ledger for transparent and secure data storage.
+  - ❌ Research Hyperledger Fabric for blockchain architecture.
+  - ❌ Develop smart contracts using Solidity for Ethereum.
+  - ❌ Test and deploy smart contracts on the blockchain.
 
 ### Identity Verification System:
-- [ ] Develop system for secure and decentralized identity verification.
-  - [ ] Research Civic for identity verification solutions.
-  - [ ] Integrate identity verification system with user registration process.
-  - [ ] Test and ensure reliability and security of the verification process.
+- ❌ Develop system for secure and decentralized identity verification.
+  - ❌ Research Civic for identity verification solutions.
+  - ❌ Integrate identity verification system with user registration process.
+  - ❌ Test and ensure reliability and security of the verification process.
 
 ### Analytics Dashboard Development:
-- [ ] Develop analytics dashboard for visualizing data and insights.
-  - [ ] Research Tableau for data visualization capabilities.
-  - [ ] Design dashboard layout and components.
-  - [ ] Implement backend logic for data retrieval and visualization.
+- ❌ Develop analytics dashboard for visualizing data and insights.
+  - ❌ Research Tableau for data visualization capabilities.
+  - ❌ Design dashboard layout and components.
+  - ❌ Implement backend logic for data retrieval and visualization.
 
 ### Database Layer Implementation:
-- [ ] Design and implement database schema for storing user data, policies, complaints, and feedback.
-  - [ ] Research PostgreSQL for relational data storage.
-  - [ ] Develop backend logic for database interactions.
-  - [ ] Test database operations and ensure data integrity and security.
+- ❌ Design and implement database schema for storing user data, policies, complaints, and feedback.
+  - ❌ Research PostgreSQL for relational data storage.
+  - ❌ Develop backend logic for database interactions.
+  - ❌ Test database operations and ensure data integrity and security.
 
 ### Smart Contracts Deployment:
-- [ ] Deploy smart contracts on the blockchain network.
-  - [ ] Ensure proper configuration and deployment of smart contracts.
-  - [ ] Test smart contract functionality and interactions with the platform.
-  - [ ] Monitor smart contract performance and address any issues.
+- ❌ Deploy smart contracts on the blockchain network.
+  - ❌ Ensure proper configuration and deployment of smart contracts.
+  - ❌ Test smart contract functionality and interactions with the platform.
+  - ❌ Monitor smart contract performance and address any issues.
 
 ### Integration Testing:
-- [ ] Conduct integration testing to ensure seamless interaction between platform components.
-  - [ ] Test communication between frontend and backend modules.
-  - [ ] Verify data flow and consistency across the platform.
-  - [ ] Address any integration issues and ensure platform stability.
+- ❌ Conduct integration testing to ensure seamless interaction between platform components.
+  - ❌ Test communication between frontend and backend modules.
+  - ❌ Verify data flow and consistency across the platform.
+  - ❌ Address any integration issues and ensure platform stability.
 
 ### User Acceptance Testing:
-- [ ] Invite users to participate in user acceptance testing.
-  - [ ] Gather feedback and suggestions from users.
-  - [ ] Identify and address any usability issues or bugs.
-  - [ ] Ensure that the platform meets user expectations and requirements.
+- ❌ Invite users to participate in user acceptance testing.
+  - ❌ Gather feedback and suggestions from users.
+  - ❌ Identify and address any usability issues or bugs.
+  - ❌ Ensure that the platform meets user expectations and requirements.
 
 ### Documentation and Training:
 - ❌ Include in README (libraries to install) and (steps to run).
   - ❌ Document required libraries and dependencies.
   - ❌ Provide detailed steps to deploy and run the Dapp.
-- [ ] Prepare documentation for platform usage and administration.
-  - [ ] Document platform features, functionalities, and workflows.
-  - [ ] Provide user guides and tutorials for citizens and policymakers.
-- [ ] Conduct training sessions for platform users and administrators.
-  - [ ] Train users on how to navigate and use the platform effectively.
-  - [ ] Provide training materials and resources for ongoing support.
+- ❌ Prepare documentation for platform usage and administration.
+  - ❌ Document platform features, functionalities, and workflows.
+  - ❌ Provide user guides and tutorials for citizens and policymakers.
+- ❌ Conduct training sessions for platform users and administrators.
+  - ❌ Train users on how to navigate and use the platform effectively.
+  - ❌ Provide training materials and resources for ongoing support.
 - ❌ Post Announcement with social links 
   - ❌ Draft announcement message.
   - ❌ Share announcement on social media platforms.
@@ -152,20 +152,20 @@ The challenge we are addressing is the need for a more inclusive, transparent, a
   - ❌ Design banner using screenshots.
 
 ### Deployment:
-- [ ] Prepare for platform deployment to production environment.
-  - [ ] Configure servers or cloud instances for hosting the platform.
-  - [ ] Set up necessary infrastructure and dependencies.
-- [ ] Deploy the platform to the production environment.
-  - [ ] Ensure smooth deployment process with minimal downtime.
-  - [ ] Conduct final testing and validation in the production environment.
+- ❌ Prepare for platform deployment to production environment.
+  - ❌ Configure servers or cloud instances for hosting the platform.
+  - ❌ Set up necessary infrastructure and dependencies.
+- ❌ Deploy the platform to the production environment.
+  - ❌ Ensure smooth deployment process with minimal downtime.
+  - ❌ Conduct final testing and validation in the production environment.
 
 ### Post-Deployment Monitoring and Support:
-- [ ] Monitor platform performance and user activity post-deployment.
-  - [ ] Set up monitoring tools to track platform usage and performance metrics.
-  - [ ] Address any issues or performance bottlenecks as they arise.
-- [ ] Provide ongoing support and maintenance for the platform.
-  - [ ] Respond to user inquiries and troubleshoot any technical issues.
-  - [ ] Implement updates and enhancements based on user feedback and evolving requirements.
+- ❌ Monitor platform performance and user activity post-deployment.
+  - ❌ Set up monitoring tools to track platform usage and performance metrics.
+  - ❌ Address any issues or performance bottlenecks as they arise.
+- ❌ Provide ongoing support and maintenance for the platform.
+  - ❌ Respond to user inquiries and troubleshoot any technical issues.
+  - ❌ Implement updates and enhancements based on user feedback and evolving requirements.
 
 ## Inspirations:
 In India, some welfare initiatives meant to benefit the needy are often plagued by corruption, where money meant for the poor ends up in the wrong hands. Our project aims to tackle such injustices by creating a transparent digital governance platform where citizens can directly engage with policymakers, ensuring that resources reach those who truly need them, thus promoting fairness and accountability in our society.
