@@ -22,6 +22,67 @@ Explore the universe of GovUnityXplorer, where ideas thrive and communities unit
 
 Welcome to GovUnityXplorer – an open-source initiative dedicated to reshaping community safety and governance through advanced technologies. Integrating machine learning, AI, and decentralized systems to create a unified and empowered community. 
 
+# Task List for Hackathon (GovUnityXplorer)
+
+- [-] Deploy a Dapp on Testnet or local blockchain.
+  - [x] Set up accounts on Testnet.
+  - [x] Configure Truffle for local blockchain testing.
+  - [x] Ensure smart contracts deploy successfully.
+  
+- [x] Write tests and include all security measures.
+  - [x] Write unit tests for smart contracts.
+  - [x] Implement security measures to prevent common vulnerabilities.
+  - [x] Conduct security audits.
+  
+- [x] Include in README (libraries to install) and (steps to run).
+  - [x] Document required libraries and dependencies.
+  - [x] Provide detailed steps to deploy and run the Dapp.
+  
+- [x] ML models (with scripts) for conflict resolution, sentiment analysis, identity verification.
+  - [x] Develop ML models for conflict resolution.
+    - [x] Collect and preprocess conflict data.
+    - [x] Train ML model.
+    - [x] Write scripts for integration.
+  - [x] Develop ML models for sentiment analysis.
+    - [x] Gather sentiment data.
+    - [x] Train sentiment analysis model.
+    - [x] Script integration with Dapp.
+  - [x] Develop ML models for identity verification.
+    - [x] Create identity datasets.
+    - [x] Train identity verification model.
+    - [x] Script integration with Dapp.
+  
+- [x] Front End (Policy Thread for voting and feedback & Issue Thread for Complaints) (Conflict Resolution Page)
+  - [x] Design Policy Thread for voting and feedback.
+    - [x] Implement user interface for voting.
+    - [x] Develop feedback system.
+  - [x] Implement Issue Thread for Complaints.
+    - [x] Design user interface for submitting complaints.
+    - [x] Implement backend for managing complaints.
+  
+- [x] WEB3 (DID, Social Media, no cost Voting, create-to-earn model)
+  - [x] Integrate DID (Decentralized Identifiers) for user authentication.
+  - [x] Implement social media integration for user engagement.
+  - [x] Integrate no-cost voting mechanism.
+  - [x] Design create-to-earn model for incentivizing participation.
+  
+- [x] Post Announcement with social links 
+  - [x] Draft announcement message.
+  - [x] Share announcement on social media platforms.
+  
+- [x] Collect stars from all the accounts
+  - [x] Gather stars from GitHub, social media, and other platforms.
+  
+- [x] Update Profile Photo
+  - [x] Choose and update profile photo.
+  
+- [x] Create banner using project screenshots
+  - [x] Capture project screenshots.
+  - [x] Design banner using screenshots.
+  
+- [x] Change Github Profile Description
+  - [x] Write and update GitHub profile description to reflect project involvement.
+
 ## Project Sections:
 
 ### 1. Machine Learning for Conflict Resolution:
