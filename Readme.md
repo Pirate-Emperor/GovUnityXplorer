@@ -24,58 +24,59 @@ Welcome to GovUnityXplorer – an open-source initiative dedicated to reshaping 
 
 # Task List for Hackathon (GovUnityXplorer)
 
-- :white_check_mark: Deploy a Dapp on Testnet or local blockchain.
-  - :white_uncheck_mark: Set up accounts on Testnet.
-  - [x] Configure Truffle for local blockchain testing.
-  - [x] Ensure smart contracts deploy successfully.
-  
-- [x] Write tests and include all security measures.
-  - [x] Write unit tests for smart contracts.
-  - [x] Implement security measures to prevent common vulnerabilities.
-  - [x] Conduct security audits.
-  
-- [x] Include in README (libraries to install) and (steps to run).
-  - [x] Document required libraries and dependencies.
-  - [x] Provide detailed steps to deploy and run the Dapp.
-  
-- [x] ML models (with scripts) for conflict resolution, sentiment analysis, identity verification.
-  - [x] Develop ML models for conflict resolution.
-    - [x] Collect and preprocess conflict data.
-    - [x] Train ML model.
-    - [x] Write scripts for integration.
-  - [x] Develop ML models for sentiment analysis.
-    - [x] Gather sentiment data.
-    - [x] Train sentiment analysis model.
-    - [x] Script integration with Dapp.
-  - [x] Develop ML models for identity verification.
-    - [x] Create identity datasets.
-    - [x] Train identity verification model.
-    - [x] Script integration with Dapp.
-  
-- [x] Front End (Policy Thread for voting and feedback & Issue Thread for Complaints) (Conflict Resolution Page)
-  - [x] Design Policy Thread for voting and feedback.
-    - [x] Implement user interface for voting.
-    - [x] Develop feedback system.
-  - [x] Implement Issue Thread for Complaints.
-    - [x] Design user interface for submitting complaints.
-    - [x] Implement backend for managing complaints.
-  
-- [x] WEB3 (DID, Social Media, no cost Voting, create-to-earn model)
-  - [x] Integrate DID (Decentralized Identifiers) for user authentication.
-  - [x] Implement social media integration for user engagement.
-  - [x] Integrate no-cost voting mechanism.
-  - [x] Design create-to-earn model for incentivizing participation.
-  
-- [x] Post Announcement with social links 
-  - [x] Draft announcement message.
-  - [x] Share announcement on social media platforms.
 
-- [x] Create banner using project screenshots
-  - [x] Capture project screenshots.
-  - [x] Design banner using screenshots.
+- ❌ Deploy a Dapp on Testnet or local blockchain.
+  - ✅ Set up accounts on Testnet.
+  - ❌ Configure Truffle for local blockchain testing.
+  - ❌ Ensure smart contracts deploy successfully.
   
-- [x] Change Github Profile Description
-  - [x] Write and update GitHub profile description to reflect project involvement.
+- ❌ Write tests and include all security measures.
+  - ❌ Write unit tests for smart contracts.
+  - ❌ Implement security measures to prevent common vulnerabilities.
+  - ❌ Conduct security audits.
+  
+- ❌ Include in README (libraries to install) and (steps to run).
+  - ❌ Document required libraries and dependencies.
+  - ❌ Provide detailed steps to deploy and run the Dapp.
+  
+- ❌ ML models (with scripts) for conflict resolution, sentiment analysis, identity verification.
+  - ❌ Develop ML models for conflict resolution.
+    - ❌ Collect and preprocess conflict data.
+    - ❌ Train ML model.
+    - ❌ Write scripts for integration.
+  - ❌ Develop ML models for sentiment analysis.
+    - ❌ Gather sentiment data.
+    - ❌ Train sentiment analysis model.
+    - ❌ Script integration with Dapp.
+  - ❌ Develop ML models for identity verification.
+    - ❌ Create identity datasets.
+    - ❌ Train identity verification model.
+    - ❌ Script integration with Dapp.
+  
+- ❌ Front End (Policy Thread for voting and feedback & Issue Thread for Complaints) (Conflict Resolution Page)
+  - ❌ Design Policy Thread for voting and feedback.
+    - ❌ Implement user interface for voting.
+    - ❌ Develop feedback system.
+  - ❌ Implement Issue Thread for Complaints.
+    - ❌ Design user interface for submitting complaints.
+    - ❌ Implement backend for managing complaints.
+  
+- ❌ WEB3 (DID, Social Media, no cost Voting, create-to-earn model)
+  - ❌ Integrate DID (Decentralized Identifiers) for user authentication.
+  - ❌ Implement social media integration for user engagement.
+  - ❌ Integrate no-cost voting mechanism.
+  - ❌ Design create-to-earn model for incentivizing participation.
+  
+- ❌ Post Announcement with social links 
+  - ❌ Draft announcement message.
+  - ❌ Share announcement on social media platforms.
+
+- ❌ Create banner using project screenshots
+  - ❌ Capture project screenshots.
+  - ❌ Design banner using screenshots.
+  
+- ❌ Change Github Profile Description
+  - ❌ Write and update GitHub profile description to reflect project involvement.
 
 ## Project Sections:
 
