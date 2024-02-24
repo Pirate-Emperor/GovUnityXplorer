@@ -24,8 +24,8 @@ Welcome to GovUnityXplorer – an open-source initiative dedicated to reshaping 
 
 # Task List for Hackathon (GovUnityXplorer)
 
-- [X] Deploy a Dapp on Testnet or local blockchain.
-  - [x] Set up accounts on Testnet.
+- [ ](https://via.placeholder.com/15/1589F0/000000?text=+) Deploy a Dapp on Testnet or local blockchain.
+  - [x](https://via.placeholder.com/15/1589F0/000000?text=+) Set up accounts on Testnet.
   - [x] Configure Truffle for local blockchain testing.
   - [x] Ensure smart contracts deploy successfully.
   
