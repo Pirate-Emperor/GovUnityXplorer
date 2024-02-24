@@ -14,7 +14,7 @@ Explore the universe of GovUnityXplorer, where ideas thrive and communities unit
 [![Telegram](https://img.shields.io/badge/Telegram-Community-informational?logo=telegram)](https://t.me/+TUZqu7663DtlYWE1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Announcement-9cf?logo=linkedin)](https://www.linkedin.com/in/piratekingrahul)
 [![Skype](https://img.shields.io/badge/Skype-Contact-important?logo=skype)](https://join.skype.com/invite/yfjOJG3wv9Ki)
-[![Medium](https://img.shields.io/badge/Medium-Announcement-green?logo=medium)](https://medium.com/@piratekingrahul)
+[![Medium](https://img.shields.io/badge/Medium-Announcement%20%2B%20Post-brightgreen?logo=medium)](https://medium.com/@piratekingrahul)
 
 
 # GovUnityXplorer
