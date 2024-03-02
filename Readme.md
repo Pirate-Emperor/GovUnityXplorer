@@ -54,9 +54,9 @@ GovUnityXplorer aims to develop a robust digital governance platform leveraging 
 
 ### Frontend Development:
 - ❌ Develop user interfaces for citizens and policymakers.
-  - ❌ Design UI wireframes and mockups.
-  - ❌ Implement frontend components using React.js.
-  - ❌ Ensure responsiveness and cross-browser compatibility.
+  - ❌ Design UI for Forum.
+  - ❌ Design UI for Accounts.
+  - ❌ Design UI for Transaction.
 
 ### Web3 Integration:
 - ❌ Integrate blockchain for decentralized communication and transactions.
