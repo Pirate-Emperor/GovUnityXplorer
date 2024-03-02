@@ -54,9 +54,9 @@ GovUnityXplorer aims to develop a robust digital governance platform leveraging 
 
 ### Frontend Development:
 - ❌ Develop user interfaces for citizens and policymakers.
-  - ❌ Design UI for Forum.
-  - ❌ Design UI for Accounts.
-  - ❌ Design UI for Transaction.
+  - ❌ Implement UI for Forum.
+  - ❌ Implement UI for Accounts.
+  - ❌ Implement UI for Transaction.
 
 ### Web3 Integration:
 - ❌ Integrate blockchain for decentralized communication and transactions.
@@ -67,13 +67,14 @@ GovUnityXplorer aims to develop a robust digital governance platform leveraging 
   - ❌ Integrate DID (Decentralized Identifiers) for user authentication.
   - ❌ Implement social media integration for user engagement.
   - ❌ Integrate no-cost voting mechanism.
-  - ❌ Design create-to-earn model for incentivizing participation.
+  - ❌ Implement create-to-earn model for incentivizing participation.
 
 ### Mobile Application Development:
 - ❌ Develop a mobile application using Flutter for Android devices.
-  - ❌ Design mobile UI wireframes and mockups.
-  - ❌ Implement UI components and navigation.
-  - ❌ Test and ensure compatibility across various Android devices.
+  - ❌ Implement Mobile UI for Forum.
+  - ❌ Implement Mobile UI for Accounts.
+  - ❌ Implement Mobile UI for Transaction.
+  - ❌ Compatibility Test across various Android devices.
 
 ### AI/ML Module Implementation:
 - ❌ Develop AI module for sentiment analysis and decision support.
