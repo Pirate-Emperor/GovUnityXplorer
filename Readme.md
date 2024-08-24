@@ -1,4 +1,4 @@
-![GovUnityXplorer](images/head_2.jpg)
+![GovUnityXplorer](images/govunityxplorer.png)
 # GovUnityXplorer: Trust, Privacy, and Empowerment
 
 # Welcome to GovUnityXplorer!
