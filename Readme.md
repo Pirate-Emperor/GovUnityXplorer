@@ -50,6 +50,13 @@ GovUnityXplorer aims to develop a robust digital governance platform leveraging 
 - **Goal 10: Reduced Inequalities**
   - Target 10.2: Empower and promote the social, economic, and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion, or economic or other status.
 
+## Screenshots
+![screenshot1](images/screenshot1.png)
+![screenshot2](images/screenshot2.png)
+![screenshot3](images/screenshot3.png)
+![screenshot4](images/screenshot4.png)
+![screenshot5](images/screenshot5.png)
+
 ## Task List
 
 ### Frontend Development:
